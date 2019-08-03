@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PCStitch > Stitcher AutoShop
+// @name         Automatic DMC Adder
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  simple userscript that adds all your required threads from your PCStitch Export
